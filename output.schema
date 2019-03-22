@@ -1,0 +1,20 @@
+{
+    "functions": [
+        {
+            "name": "say_hello",
+            "output_tags": [
+                {"name": "age", "type": "int"}
+            ],
+            "has_modified_files": false,
+            "has_extra_files": true
+        },
+        {
+            "name": "add_number",
+            "output_tags": [
+               {"name": "ftype", "type": "str"}
+            ],
+            "has_modified_files": true,
+            "has_extra_files": false
+        }
+    ]
+}

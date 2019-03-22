@@ -1,0 +1,11 @@
+{
+  "name": "say_hello",
+  "options": {
+    "age": 4,
+    "gender": "M",
+    "wears_glasses": false
+  },
+  "num_files": 1,
+  "files": ["name.txt"],
+  "tags": [{}]
+}
